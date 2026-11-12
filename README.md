@@ -8,8 +8,8 @@ Paper presentation for the **YOLO26** paper by Ultralytics.
 ## Presented by
 
 * Karimah Alkathiri
-* Sawsan Omar Sheikh
-* Bdour
+* Sawsan Sheikh Omar
+* Bdour Alghamdi
 
 ## Contents
 
